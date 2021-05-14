@@ -1,0 +1,27 @@
+body{
+	background-image: url('83248_1920_1080.png');
+}
+td, th{
+	border: 1px solid black;
+}
+table{
+	border: 3px solid black;
+
+}
+section{
+	float:left;
+}
+aside{
+	margin-left:20%;
+}
+footer{
+	margin-top:5%;
+}
+#title{
+	padding: -10%;
+	color: #10a6d6;
+
+}
+#tout{
+	margin-left: 10%;
+}

@@ -1,0 +1,36 @@
+h1 {
+display:inline;
+}
+body{
+	background-image: url('83248_1920_1080.png');
+}
+#selection{
+	border: 1px solid #055c77;
+  	border-radius: 15px;
+  	padding: 0.2%;
+  	margin: 0.1%;
+  	width: 15%;
+  	background-color: #055c77 ;
+
+
+}
+#title{
+	padding: -10%;
+	color: #10a6d6;
+
+}
+a{
+	text-decoration: none;
+	color: #10a6d6;; 
+}
+#deco{
+	border: 1px solid #055c77;
+  	border-radius: 15px;
+	color: #10a6d6; 
+	margin-left:0.5%;
+	padding: 0.2%;
+	background-color: #055c77;
+}
+strong{
+	color: #10a6d6;
+}
